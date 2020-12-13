@@ -5,9 +5,19 @@
 </head>
 <body>
     <h1>Welcome !!</h1>
-    <div th:inline="text"> Hi There, [[${firstName}]]</div>
-    <div th:text="|Hi There , ${firstName}|"> sdsdfsdfj</div>
-    
+   <form action="" method="post">
+   <div style="padding-bottom:10px;">
+   <label>FirstName :</label>
+   <input type="text" th:field="${person.firstName}"/>
+   </div>
+   <div style="padding-bottom:10px;">
+   <label>LastName :</label>
+   <input type="text" th:field="${person.lastName}" />
+   </div>
+   <div>
+   <button>Submit</button>
+   </div>
+   </form>
     
 </body>
 </html>

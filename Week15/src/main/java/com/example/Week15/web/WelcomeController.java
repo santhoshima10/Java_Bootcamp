@@ -3,6 +3,9 @@ package com.example.Week15.web;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.example.Week15.domain.Person;
 
 @Controller
 public class WelcomeController {
@@ -10,12 +13,18 @@ public class WelcomeController {
 	
 	@GetMapping("")
 	public String GetWelcomePage(ModelMap map) {
-		String firstName = "Vidhya";
-		String lastName = "Santhoshima";
+		Person person = new Person();
 		
-		map.put("firstName", firstName);
+		map.put("person", person);
 				
 		return "welcome";
+	}
+	
+	@PostMapping("")
+	public String PostWelcomePage(Person person) {
+		
+		System.out.println(person);
+		return "redirect:/";
 	}
 
 }
