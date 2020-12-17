@@ -35,9 +35,18 @@ public class PersonController {
 	
 	@GetMapping("/persons/{personId}")
 	public String getPersonById(@PathVariable Integer personId, ModelMap map) {
-		Person person = personService.findById(personId);
-		map.put("person", person);
+		Person savedPerson = personService.findById(personId);
+		map.put("person", savedPerson);
 		return "people";
 	}
-
+	
+	@PostMapping("/persons/{personId}")
+    public String postPerson(Person person) {
+		Person savedPerson = personService.save(person);
+		 return "redirect:/persons/"+savedPerson.getId();
+		
+		
+	}
+	
+	
 }
