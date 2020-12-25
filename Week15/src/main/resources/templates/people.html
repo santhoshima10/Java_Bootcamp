@@ -5,6 +5,7 @@
 </head>
 <body>
     <h1>Welcome !!</h1>
+   
    <form action="" method="post">
    <input type="hidden" th:field="${person.Id}"/>
    <div style="padding-bottom:10px;">
@@ -17,8 +18,18 @@
    </div>
    <div>
    <button>Submit</button>
+    <a style="margin-left:10px"href="/persons" th:if="${person.Id!=null}">Back</a>
    </div>
    </form>
+   
+   <hr/>
+    <div th:each="storedperson:${people}">
+      <span th:inline="text">[[${storedperson.Id}]] : <a th:href="@{/persons/{personId}(personId=${storedperson.Id})}"> [[${storedperson.firstName}]] [[${storedperson.lastName}]]</a></span>
+    </div>
+    
+    <form th:action="@{/persons/{personId}/delete(personId=${person.Id})}" method="post" th:if="${person.Id != null}">
+     <button >Delete</button>
+    </form>
     
 </body>
 </html>
