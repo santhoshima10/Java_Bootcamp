@@ -1,0 +1,100 @@
+1,Amazon,Amazon Store #110,2020-01-02T11:36:58,52.08,D
+2,Albertsons,Albertsons Store #199,2020-02-10T09:08:17,7.92,D
+3,Albertsons,Albertsons Store #298,2020-01-09T00:17:49,58.45,D
+4,Kroger,Kroger Store #346,2020-01-26T10:01:30,93.78,D
+5,Target,Target Store #99,2020-02-08T23:57:30,10.61,D
+6,Aldi,Aldi Store #92,2020-01-12T21:47:46,17.39,C
+7,Walgreens,Walgreens Store #480,2020-01-18T10:48:30,72.77,C
+8,TJ Max,TJ Max Store #143,2020-02-15T10:35:34,26.97,D
+9,Dollar General,Dollar General Store #309,2020-01-09T21:58:30,90.81,D
+10,TJ Max,TJ Max Store #64,2020-01-10T19:40:26,80.93,C
+11,CVS Heath,CVS Heath Store #279,2020-02-11T10:45:51,33.74,D
+12,Lowe's,Lowe's Store #439,2020-02-03T07:41:18,47.98,D
+13,Home Depot,Home Depot Store #78,2020-02-13T13:10,79.09,D
+14,TJ Max,TJ Max Store #140,2020-02-04T14:33:07,29.86,C
+15,H-E-B Grocery,H-E-B Grocery Store #455,2020-01-17T09:45:58,28.06,D
+16,Walmart,Walmart Store #313,2020-01-09T08:45:57,47.19,D
+17,Kroger,Kroger Store #271,2020-01-01T22:43:35,9.18,D
+18,Publix,Publix Store #394,2020-02-15T09:58:27,21.41,C
+19,Walgreens,Walgreens Store #286,2020-01-25T07:41:59,45.10,D
+20,Walmart,Walmart Store #116,2020-01-05T13:10:24,50.33,D
+21,Dollar General,Dollar General Store #154,2020-01-16T20:07:50,77.67,D
+22,Target,Target Store #452,2020-01-23T13:30:04,43.79,D
+23,Costco,Costco Store #481,2020-01-31T14:55:53,1.69,D
+24,Home Depot,Home Depot Store #484,2020-01-12T18:57:43,45.12,D
+25,CVS Heath,CVS Heath Store #371,2020-01-08T05:50:48,91.78,C
+26,Best Buy,Best Buy Store #73,2020-01-29T03:30:52,96.50,D
+27,Macy's,Macy's Store #227,2020-01-26T14:10:42,60.20,D
+28,Walmart,Walmart Store #436,2020-01-19T00:55:09,52.87,D
+29,Walgreens,Walgreens Store #210,2020-01-16T07:24:35,23.54,D
+30,Kroger,Kroger Store #483,2020-02-11T03:02:10,95.68,D
+31,Lowe's,Lowe's Store #228,2020-02-03T13:58:17,58.33,D
+32,Albertsons,Albertsons Store #491,2020-01-29T12:31:34,55.66,D
+33,Apple Inc,Apple Inc Store #150,2020-01-25T10:02:48,56.74,D
+34,Albertsons,Albertsons Store #325,2020-01-30T23:54:57,22.74,C
+35,Lowe's,Lowe's Store #187,2020-01-11T06:14:43,44.92,D
+36,CVS Heath,CVS Heath Store #151,2020-02-08T19:48:58,19.95,D
+37,Kroger,Kroger Store #179,2020-01-04T05:44:22,14.27,D
+38,Albertsons,Albertsons Store #490,2020-01-05T07:29:36,89.54,C
+39,Best Buy,Best Buy Store #313,2020-01-09T23:01:55,75.13,D
+40,Target,Target Store #375,2020-02-12T09:19:32,7.08,D
+41,Costco,Costco Store #444,2020-02-07T13:42:38,91.22,D
+42,Best Buy,Best Buy Store #459,2020-01-26T13:25:47,73.08,C
+43,Walmart,Walmart Store #410,2020-01-23T21:47:53,98.54,D
+44,Amazon,Amazon Store #248,2020-02-05T17:31:04,35.31,D
+45,Best Buy,Best Buy Store #273,2020-01-05T02:25:44,61.98,D
+46,Target,Target Store #87,2020-01-28T03:01:24,92.51,D
+47,Costco,Costco Store #36,2020-02-09T11:25:13,67.14,C
+48,Amazon,Amazon Store #62,2020-02-04T00:18:50,2.07,D
+49,Dollar General,Dollar General Store #14,2020-01-29T18:23:28,42.37,D
+50,H-E-B Grocery,H-E-B Grocery Store #213,2020-01-01T19:04:48,41.36,D
+51,Walgreens,Walgreens Store #53,2020-01-07T19:58:21,4.22,D
+52,Publix,Publix Store #124,2020-01-17T21:32:25,22.61,D
+53,Kroger,Kroger Store #465,2020-01-14T23:19:56,98.50,C
+54,TJ Max,TJ Max Store #239,2020-01-24T01:07:24,19.86,C
+55,Best Buy,Best Buy Store #394,2020-01-21T03:08:43,64.32,D
+56,Costco,Costco Store #80,2020-02-08T16:15:52,87.71,C
+57,Best Buy,Best Buy Store #276,2020-01-15T14:45:58,44.28,D
+58,CVS Heath,CVS Heath Store #250,2020-02-03T11:25:27,56.98,D
+59,Walgreens,Walgreens Store #479,2020-01-06T23:32:38,59.08,D
+60,Dollar General,Dollar General Store #304,2020-01-03T03:46:54,99.48,D
+61,Dollar General,Dollar General Store #288,2020-02-10T09:45:57,12.58,D
+62,Apple Inc,Apple Inc Store #66,2020-01-29T10:02:56,3.24,C
+63,CVS Heath,CVS Heath Store #96,2020-01-31T12:10:24,81.31,C
+64,McDonald's,McDonald's Store #442,2020-01-06T01:27:09,14.21,D
+65,Best Buy,Best Buy Store #36,2020-02-03T21:15:08,68.66,D
+66,Lowe's,Lowe's Store #171,2020-01-18T12:57:11,99.04,D
+67,Target,Target Store #82,2020-01-04T10:46:54,21.73,D
+68,TJ Max,TJ Max Store #27,2020-02-13T18:45:56,47.20,D
+69,Best Buy,Best Buy Store #355,2020-01-09T23:06:22,38.29,D
+70,Home Depot,Home Depot Store #454,2020-01-24T16:37:54,87.26,D
+71,Amazon,Amazon Store #222,2020-01-23T13:19:56,4.94,D
+72,Target,Target Store #394,2020-01-17T01:21:19,11.20,C
+73,H-E-B Grocery,H-E-B Grocery Store #351,2020-02-09T04:51:30,65.16,D
+74,Best Buy,Best Buy Store #83,2020-01-31T15:55:23,95.76,C
+75,Amazon,Amazon Store #469,2020-01-23T13:20:06,91.32,D
+76,Dollar General,Dollar General Store #305,2020-02-11T20:09:25,49.57,D
+77,Walgreens,Walgreens Store #56,2020-01-30T00:12:51,86.50,D
+78,Albertsons,Albertsons Store #378,2020-01-24T21:34:06,82.17,D
+79,Costco,Costco Store #332,2020-02-09T18:58:40,67.77,D
+80,Aldi,Aldi Store #378,2020-01-26T10:32:35,17.30,D
+81,H-E-B Grocery,H-E-B Grocery Store #282,2020-02-15T19:25:48,81.35,D
+82,Walmart,Walmart Store #326,2020-01-02T08:27:54,64.87,D
+83,Walgreens,Walgreens Store #270,2020-01-31T03:50:39,1.91,C
+84,Publix,Publix Store #246,2020-01-20T00:43:22,10.24,D
+85,Walmart,Walmart Store #415,2020-01-13T04:52:38,37.44,D
+86,Costco,Costco Store #340,2020-01-02T12:38:42,79.26,D
+87,Albertsons,Albertsons Store #406,2020-02-11T12:19:36,32.09,D
+88,H-E-B Grocery,H-E-B Grocery Store #232,2020-02-01T16:20:42,43.16,D
+89,Home Depot,Home Depot Store #17,2020-01-12T06:22:16,2.00,C
+90,Amazon,Amazon Store #129,2020-01-19T09:18:33,61.81,D
+91,Macy's,Macy's Store #310,2020-01-26T01:57:51,5.65,D
+92,Amazon,Amazon Store #355,2020-01-11T08:39:25,75.30,D
+93,Dollar General,Dollar General Store #474,2020-02-09T09:51:53,62.34,D
+94,Aldi,Aldi Store #374,2020-02-13T08:35:24,22.69,D
+95,Publix,Publix Store #216,2020-01-10T19:31:09,79.60,D
+96,Macy's,Macy's Store #302,2020-02-09T04:19:34,55.81,D
+97,CVS Heath,CVS Heath Store #418,2020-02-03T03:37:43,88.99,D
+98,Walgreens,Walgreens Store #421,2020-02-14T02:47:36,47.35,D
+99,Home Depot,Home Depot Store #78,2020-01-11T11:03:22,57.04,D
+100,Aldi,Aldi Store #215,2020-01-06T14:48:53,38.50,C

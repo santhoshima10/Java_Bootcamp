@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<title>Transaction History</title>
+<style>
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+    <h1>Transaction History</h1>
+    
+    <table style="width:50%">
+     <tr style="background-color:black; color:white;">
+      <th>ID</th>
+       <th>Date</th>
+        <th>Retailer</th>
+         <th>Funds In</th>
+          <th>Funds Out</th>
+        </tr>
+        
+        <tr th:each="txn:${transactions}" >
+          <td th:inline="text">
+          <a th:href="@{/transactions/{transactionId}(transactionId=${txn.id})}">[[${txn.id}]]</a>
+          </td>
+           <td th:inline="text">[[${txn.date}]]</td>
+            <td th:inline="text">[[${txn.retailer}]]</td>
+          
+            <td>
+               <th:block th:if="${txn.type == 'C'}" th:inline="text">[[${txn.amount}]]</th:block>
+            </td>
+            
+              <td>
+               <th:block th:if="${txn.type == 'D'}" th:inline="text">[[${txn.amount}]]</th:block>
+            </td>
+            
+        </tr>
+     
+    </table>
+  
+</body>
+</html>
